@@ -2,6 +2,23 @@
 66daysofdata code and readme on daily followups
 
 Todo: add curriculum here etc.
+
+___________
+<h2>Day 3</h2>
+
+Actions taken:
+
+- Khan Academy: 4 videos 5 exercises
+
+Thoughts: Busy day. Only thing I had time to was do some math 
+after I had done all the errands of the day
+
+<h2>Khan Academy energy points</h2>
+Start: 921700
+
+D2:929375
+
+Currently: 933920
 ___________
 <h2>Day 2</h2>
 
