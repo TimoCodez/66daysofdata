@@ -18,7 +18,7 @@ In Progress:
 - Google Project Management Professional Certificate
 
 Completed:
-Complete Python Developer Zero to Mastery 2022
+- Complete Python Developer Zero to Mastery 2022
 ___________
 <h2>Day 6</h2>
 
