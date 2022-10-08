@@ -19,6 +19,27 @@ In Progress:
 
 Completed:
 - Complete Python Developer Zero to Mastery 2022
+
+
+___________
+<h2>Day 7</h2>
+
+Actions taken:
+
+- Khan Academy: few videos on statistics and probabilities
+- Python on @getmimo app
+- Advanced on Applied DS, PM and DS IBM
+
+
+Thoughts: Finally started heavily with the Coursera courses
+
+<h2>Khan Academy energy points</h2>
+Start: 921700
+
+D4:936376
+
+Currently: 
+
 ___________
 <h2>Day 6</h2>
 
