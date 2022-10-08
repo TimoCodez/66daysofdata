@@ -16,6 +16,7 @@ In Progress:
 - IBM Data Science Professional Certificate
 - Applied Data Science with Python Specialization
 - Google Project Management Professional Certificate
+- Complete Machine learning and Data Science Bootcamp 2022
 
 Completed:
 - Complete Python Developer Zero to Mastery 2022
