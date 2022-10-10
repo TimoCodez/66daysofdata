@@ -21,7 +21,23 @@ In Progress:
 Completed:
 - Complete Python Developer Zero to Mastery 2022
 
+___________
+<h2>Day 8</h2>
 
+Actions taken:
+
+- Python on @getmimo app
+- Advanced on Applied DS, PM and DS IBM
+
+
+Thoughts: First 3 week modules almost done on IBM DS and Google PM
+
+<h2>Khan Academy energy points</h2>
+Start: 921700
+
+D7:938176
+
+Currently: 938176
 ___________
 <h2>Day 7</h2>
 
@@ -37,9 +53,9 @@ Thoughts: Finally started heavily with the Coursera courses
 <h2>Khan Academy energy points</h2>
 Start: 921700
 
-D4:936376
+D6:936376
 
-Currently: 
+Currently: 938176
 
 ___________
 <h2>Day 6</h2>
