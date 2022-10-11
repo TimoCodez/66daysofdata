@@ -42,7 +42,7 @@ D9:938176
 Currently: 938176
 
 <h3>Badges:</h3>
-
+![badge1](/images/data-science-orientation.png)
 ___________
 <h2>Day 9</h2>
 
