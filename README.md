@@ -42,7 +42,7 @@ D9:938176
 Currently: 938176
 
 <h3>Badges:</h3>
-![data-science-orientation](https://user-images.githubusercontent.com/55003801/195218465-b53a3c99-db35-426b-8a44-3cc9075dd017.png)
+coming soon
 ___________
 <h2>Day 9</h2>
 
