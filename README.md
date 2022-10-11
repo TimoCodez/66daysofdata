@@ -13,14 +13,53 @@ Udemy:
 
 
 In Progress:
-- IBM Data Science Professional Certificate
+- IBM Data Science Professional Certificate 1/10
 - Applied Data Science with Python Specialization
 - Google Project Management Professional Certificate
-- Complete Machine learning and Data Science Bootcamp 2022
+- Complete Machine learning and Data Science Bootcamp 2022 (54%)
 
 Completed:
 - Complete Python Developer Zero to Mastery 2022
+___________
+<h2>Day 10</h2>
 
+Actions taken:
+
+- Advanced on Applied DS, DS IBM
+- Completed 1/10 of IBM DS (Orientation to Data Science)
+
+
+Thoughts: I was stocked to get thru the Orientation to Data Dcience IBM first module. 3 weeks of content done in 3 days.
+Obviously the content was quite familiar to me as I have studied the subject before. 
+But looking into learning more and things will eventually get harder.
+Badge posted on the Badge section
+
+<h2>Khan Academy energy points</h2>
+Start: 921700
+
+D9:938176
+
+Currently: 938176
+
+<h3>Badges:</h3>
+![1stBadge](https://www.credly.com/badges/408feaaa-2a91-4126-b51f-838f1de8dea3/public_url)
+___________
+<h2>Day 9</h2>
+
+Actions taken:
+
+- Python on @getmimo app
+- Advanced on Applied DS, PM and DS IBM
+
+
+Thoughts: First 3 week modules almost done on IBM DS and Google PM
+
+<h2>Khan Academy energy points</h2>
+Start: 921700
+
+D8:938176
+
+Currently: 938176
 ___________
 <h2>Day 8</h2>
 
