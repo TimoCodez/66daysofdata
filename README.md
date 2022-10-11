@@ -42,7 +42,7 @@ D9:938176
 Currently: 938176
 
 <h3>Badges:</h3>
-![1stBadge](https://www.credly.com/badges/408feaaa-2a91-4126-b51f-838f1de8dea3/public_url)
+
 ___________
 <h2>Day 9</h2>
 
