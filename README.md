@@ -20,6 +20,26 @@ In Progress:
 
 Completed:
 - Complete Python Developer Zero to Mastery 2022
+<h2>Day 11-13</h2>
+
+Actions taken:
+
+- Advanced on Applied DS, DS IBM
+- Tarted Data Science with Python on SoloLearn starting with NumÅy and Pandas
+
+
+Thoughts: Super busy on my IRL work and family stuff. Was not able to put in much time for the project on DS etc. Next week I am looking to take work a bit lighter due school holidays so I might get in nice hours on this.
+
+<h2>Khan Academy energy points</h2>
+Start: 921700
+
+D11:938176
+
+Currently: 938176
+
+<h3>Badges:</h3>
+coming soon
+___________
 ___________
 <h2>Day 10</h2>
 
