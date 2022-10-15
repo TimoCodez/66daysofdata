@@ -20,6 +20,29 @@ In Progress:
 
 Completed:
 - Complete Python Developer Zero to Mastery 2022
+
+___________
+<h2>Day 14</h2>
+
+Actions taken:
+
+- Advanced on Applied DS, DS IBM. Mathematics for Data science Duke 3 classes
+- Completed Week 1 on IBM DS
+- Good progress all around
+
+
+Thoughts: 
+
+<h2>Khan Academy energy points</h2>
+Start: 921700
+
+D11:938176
+
+Currently: 938176
+
+<h3>Badges:</h3>
+coming soon
+___________
 <h2>Day 11-13</h2>
 
 Actions taken:
@@ -39,7 +62,7 @@ Currently: 938176
 
 <h3>Badges:</h3>
 coming soon
-___________
+
 ___________
 <h2>Day 10</h2>
 
