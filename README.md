@@ -27,7 +27,7 @@ ___________
 Actions taken:
 
 - Advanced on Applied DS, DS IBM. Mathematics for Data science Duke 3 classes
-- Completed Week 1 on IBM DS
+- Completed Week 1 on IBM DS Section 2 Tools For Data Science
 - Good progress all around
 
 
