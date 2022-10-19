@@ -17,10 +17,32 @@ In Progress:
 - Applied Data Science with Python Specialization
 - Google Project Management Professional Certificate
 - Complete Machine learning and Data Science Bootcamp 2022 (54%)
+- Data Science math Skills
 
 Completed:
 - Complete Python Developer Zero to Mastery 2022
 
+___________
+<h2>Day 18</h2>
+
+Actions taken:
+
+- Completed entire sections on IBM data science.
+- Section 2 and 3 during the same day
+- Did some math on the Data Science Math course
+
+
+Thoughts: Epic pace on the IBM DS course. Now completed 9 weeks of work in 2 weeks.
+
+<h2>Khan Academy energy points</h2>
+Start: 921700
+
+D17:938176
+
+Currently: 938176
+
+<h3>Badges:</h3>
+coming soon
 ___________
 <h2>Day 14</h2>
 
