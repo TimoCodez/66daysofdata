@@ -23,7 +23,7 @@ Completed:
 - Complete Python Developer Zero to Mastery 2022
 
 Badges
-<img>https://www.credly.com/badges/408feaaa-2a91-4126-b51f-838f1de8dea3/public_url</img>
+<img>https://images.credly.com/size/340x340/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png</img>
 
 ___________
 <h2>Day 18</h2>
