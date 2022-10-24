@@ -23,7 +23,7 @@ Completed:
 - Complete Python Developer Zero to Mastery 2022
 
 Badges
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="408feaaa-2a91-4126-b51f-838f1de8dea3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img>https://www.credly.com/badges/408feaaa-2a91-4126-b51f-838f1de8dea3/public_url</img>
 
 ___________
 <h2>Day 18</h2>
